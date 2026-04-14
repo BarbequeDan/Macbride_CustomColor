@@ -22,19 +22,19 @@ void loop() {
 
   // Color 1
   {
-    setColor(225, 72, 100);
+    setColor(255, 204, 229);
     delay(1000);
   }
 
  // Color 2
   {
-    setColor(0, 225, 0);
+    setColor(204, 153, 255);
     delay(1000);
   }
 
  // Color 3
   {
-    setColor(0, 0, 225);
+    setColor(255, 51, 51);
     delay(1000);
   }
 }
